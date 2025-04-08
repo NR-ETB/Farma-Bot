@@ -1,0 +1,248 @@
+/* Importar fuente*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+/* Importar fuente*/
+
+/* Variables de Colores */
+:root{
+    --orange-etb: #FF6523;
+    --bgray-etb: #d8dde6;
+    --b3gray-etb: #E4E8F0;
+    --gray-etb: #f4f6f9;
+    --withe-etb: #fff;
+    --bblue-etb: #214780;
+    --fblue-etb: #14C1EA;
+    --pblue-etb: #54698d;
+    --black-etb: #333333;
+    --b2gray-etb: #969492;
+}
+/* Variables de Colores */
+
+/* Reiniciar el CSS */
+*{ 
+ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+ 
+}
+
+a{
+    color: var(--orange-etb);
+}
+/* Reiniciar el CSS */
+
+/* Generalidades del Cuerpo */
+body{
+ 
+    font-family: 'Ubuntu', sans-serif;
+    overflow-x: hidden;
+ 
+}
+
+a{
+    color: var(--orange-etb);
+}
+/* Generalidades del Cuerpo */
+
+/* CSS del Principal */
+.main-container{
+    background-image: url('../media/backgrounds/doctor.png');
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    height: 959px;
+}
+
+.container-bot {
+    height: 959px;
+    width: 1357px;
+    background-color: var(--withe-etb); /* Blanco con transparencia */
+    padding: 0 100px;
+    margin-left: 268px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* opcional: un toque moderno */
+    position: absolute;
+    z-index: 1;
+}
+
+h1{
+    font-size: 62px;
+    color: var(--bblue-etb);
+    font-weight: 800;
+    text-align: center;
+    margin-top: 25px;
+}
+
+span {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 16px;
+}
+
+span.full {
+    max-width: 100%;
+    padding: 0 100px;
+    margin-top: 35px;
+}
+
+span.medium {
+    max-width: 700px;
+    padding: 0 50px;
+}
+
+main{
+    position: relative;
+    top: 120px;
+    border-radius: 15px;
+    border: 2px solid var(--bblue-etb);
+    height: 600px;
+    padding-top: 50px;
+}
+
+main input{
+    height: 40px;
+    width: 800px;
+    border-radius: 5px;
+    border: 2px solid var(--bblue-etb);
+    margin: 0px 0 5px 120px;
+}
+
+.btn{
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+    background-color: var(--bblue-etb);
+    color: var(--withe-etb);
+    margin: 0 0 5px 5px;
+}
+
+.product{
+    display: flex;
+}
+
+.result{
+    margin-top: 25px;
+}
+
+main h2, .result h2{
+    color: var(--bblue-etb);
+    margin: 0 0 15px 120px;
+}
+
+.backdrop {
+    position: fixed; /* Se mantiene fijo en pantalla */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Oscurecimiento con transparencia */
+    z-index: 0; /* Se coloca detrás del modal */
+}
+/* CSS del Principal */
+
+@media screen and (max-width: 1024px) {
+    .container {
+        height: 1000px; /* -50px */
+    }
+
+    .inic {
+        height: 900px;
+    }
+
+    .tittle {
+        flex-direction: column;
+        align-items: center;
+        left: auto;
+        text-align: center;
+    }
+
+    .tittle img {
+        height: 80px;
+        width: 80px;
+    }
+
+    .tittle h1 {
+        font-size: 22px;
+        margin-top: 10px;
+    }
+
+    .band-content {
+        width: 85%;
+        left: auto;
+    }
+
+    .data {
+        left: auto;
+    }
+
+    .buttons-act, .buttons-act-2 {
+        left: auto;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        height: 1050px; /* -50px */
+    }
+
+    .inic {
+        width: 95%;
+        height: 950px;
+        left: auto;
+        padding: 20px;
+    }
+
+    .tittle {
+        text-align: center;
+        left: auto;
+    }
+
+    .band-content {
+        width: 90%;
+    }
+
+    .data {
+        left: auto;
+        text-align: center;
+    }
+
+    .buttons-act, .buttons-act-2 {
+        left: auto;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .container {
+        height: 1150px; /* -50px */
+    }
+
+    .inic {
+        width: 100%;
+        height: 1000px;
+        padding: 15px;
+    }
+
+    .tittle h1 {
+        font-size: 18px;
+    }
+
+    .band-content {
+        width: 95%;
+        left: auto;
+    }
+
+    .data {
+        width: 100%;
+        left: auto;
+    }
+
+    .buttons-act, .buttons-act-2 {
+        left: auto;
+        text-align: center;
+    }
+}
+/* RESPONSIVE DESIGN */

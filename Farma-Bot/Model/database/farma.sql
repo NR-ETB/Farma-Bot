@@ -43,24 +43,74 @@ CREATE TABLE Inventario (
 
 -- Insertar medicamentos en Infecciones
 INSERT INTO Infecciones (nom_Inf, gra_Inf, ing_Inf, cant_Inf) VALUES
-('Amoxicilina', '500mg', 'Tratamiento de infecciones bacterianas respiratorias y urinarias', 100),
-('Azitromicina', '500mg', 'Infecciones respiratorias, de la piel y transmisión sexual', 80),
-('Metronidazol', '400mg', 'Infecciones anaerobias y parasitarias como giardiasis', 120),
-('Ciprofloxacino', '500mg', 'Infecciones urinarias y gastrointestinales graves', 70),
-('Isoniazida', '300mg', 'Tratamiento de tuberculosis activa y latente', 90);
+('Amoxicilina', '500mg', 'Amoxicilina, Celulosa microcristalina, Estearato de magnesio', 0),
+('Azitromicina', '500mg', 'Azitromicina, Fosfato de calcio dibásico, Laurilsulfato sódico', 80),
+('Metronidazol', '400mg', 'Metronidazol, Almidón de maíz, Estearato de magnesio', 120),
+('Ciprofloxacino', '500mg', 'Ciprofloxacino, Dióxido de silicio, Povidona', 100),
+('Isoniazida', '300mg', 'Isoniazida, Lactosa monohidrato, Talco', 90);
 
--- Insertar medicamentos en Oncológicas
+-- Insertar en Oncológicas
 INSERT INTO Oncologicas (nom_Onc, gra_Onc, ing_Onc, cant_Onc) VALUES
-('Cisplatino', '50mg', 'Quimioterapia para cáncer de pulmón, ovario y vejiga', 30),
-('Doxorrubicina', '20mg', 'Cáncer de mama, leucemias y linfomas', 40),
-('Paclitaxel', '100mg', 'Tratamiento de cáncer de ovario, mama y pulmón', 25),
-('Enzalutamida', '40mg', 'Cáncer de próstata resistente a castración', 15),
-('Bevacizumab', '100mg', 'Tratamiento de tumores sólidos como colon y pulmón', 20);
+('Cisplatino', '50mg', 'Cisplatino, Cloruro de sodio, Agua para inyección', 30),
+('Doxorrubicina', '20mg', 'Doxorrubicina, Lactosa, Ácido cítrico', 0),
+('Paclitaxel', '100mg', 'Paclitaxel, Cremophor EL, Etanol', 25),
+('Enzalutamida', '40mg', 'Enzalutamida, Lactosa monohidrato, Celulosa microcristalina', 15),
+('Bevacizumab', '100mg', 'Bevacizumab, Polisorbato 20, Fosfato de sodio', 20);
 
--- Insertar medicamentos en Endocrinológicas
+-- Insertar en Endocrinológicas
 INSERT INTO Endocrinologicas (nom_End, gra_End, ing_End, cant_End) VALUES
-('Metformina', '850mg', 'Tratamiento de diabetes tipo 2, mejora sensibilidad a la insulina', 200),
-('Insulina Glargina', '100UI/ml', 'Control glucémico prolongado en diabetes tipo 1 y 2', 150),
-('Levotiroxina', '100mcg', 'Tratamiento del hipotiroidismo', 180),
-('Empagliflozina', '10mg', 'Inhibidor SGLT2 para controlar la glucosa en diabetes tipo 2', 100),
-('Canagliflozina', '100mg', 'Otro inhibidor SGLT2 para control glucémico y protección renal', 90);
+('Metformina', '850mg', 'Metformina clorhidrato, Povidona, Estearato de magnesio', 0),
+('Insulina Glargina', '100UI/ml', 'Insulina Glargina, Glicerol, Polisorbato 20', 150),
+('Levotiroxina', '100mcg', 'Levotiroxina sódica, Lactosa monohidrato, Almidón de maíz', 180),
+('Repaglinida ', '4mg', 'Celulosa microcristalina, Povidona, Estearato de magnesio', 200),
+('Canagliflozina', '100mg', 'Canagliflozina, Dióxido de titanio, Macrogol', 90);
+
+-- Crear la tabla de Sedes
+CREATE TABLE Sedes (
+    id_Sede INT AUTO_INCREMENT PRIMARY KEY,
+    nombre_Sede VARCHAR(100) NOT NULL
+);
+
+-- Insertar tres sedes de ejemplo
+INSERT INTO Sedes (nombre_Sede) VALUES
+('Sede Central'),
+('Sede Norte'),
+('Sede Sur');
+
+-- Crear vistas de inventario para cada sede
+
+-- Vista para Sede Central utilizando la tabla Infecciones
+CREATE VIEW Inventario_Sede_Central AS
+SELECT
+    i.id_Inf AS id_Medicamento,
+    i.nom_Inf AS nombre,
+    i.gra_Inf AS gramaje,
+    i.ing_Inf AS ingredientes,
+    i.cant_Inf AS cantidad,
+    'Infecciones' AS categoria,
+    'Sede Central' AS sede
+FROM Infecciones i;
+
+-- Vista para Sede Norte utilizando la tabla Oncologicas
+CREATE VIEW Inventario_Sede_Norte AS
+SELECT
+    o.id_Onc AS id_Medicamento,
+    o.nom_Onc AS nombre,
+    o.gra_Onc AS gramaje,
+    o.ing_Onc AS ingredientes,
+    o.cant_Onc AS cantidad,
+    'Oncologicas' AS categoria,
+    'Sede Norte' AS sede
+FROM Oncologicas o;
+
+-- Vista para Sede Sur utilizando la tabla Endocrinologicas
+CREATE VIEW Inventario_Sede_Sur AS
+SELECT
+    e.id_End AS id_Medicamento,
+    e.nom_End AS nombre,
+    e.gra_End AS gramaje,
+    e.ing_End AS ingredientes,
+    e.cant_End AS cantidad,
+    'Endocrinologicas' AS categoria,
+    'Sede Sur' AS sede
+FROM Endocrinologicas e;

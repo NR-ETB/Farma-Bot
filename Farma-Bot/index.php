@@ -184,9 +184,9 @@ if (!empty($producto)) {
             // Consultar en cada vista de inventario
             $vistas = ['Inventario_Sede_Central', 'Inventario_Sede_Norte', 'Inventario_Sede_Sur'];
             foreach ($vistas as $vista) {
-                $sql_sede = "SELECT s.nombre_Sede
+                $sql_sede = "SELECT s.nom_Sed
                              FROM $vista i
-                             JOIN Sedes s ON s.nombre_Sede = i.sede
+                             JOIN Sedes s ON s.nom_Sed = i.sede
                              WHERE i.id_Medicamento = ? AND i.cantidad > 0";
                 $stmt_sede = $conn->prepare($sql_sede);
                 $stmt_sede->bind_param("i", $row['id_' . $prefijo]);
@@ -194,7 +194,7 @@ if (!empty($producto)) {
                 $result_sede = $stmt_sede->get_result();
 
                 if ($sede = $result_sede->fetch_assoc()) {
-                    $nombre_sede = $sede['nombre_Sede'];
+                    $nombre_sede = $sede['nom_Sed'];
                     break; // Salir del bucle si se encuentra la sede
                 }
             }

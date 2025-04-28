@@ -2060,3 +2060,25 @@ La repaglinida es un secretagogo de insulina utilizado para tratar la diabetes m
 >>> GeminiDescripcion.py finalizado <<<
 
 
+2025-04-28 18:11:13 - Medicamento: Azitromicina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Azitromicina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Azitromicina']
+Usando modelo: gemini-1.5-flash
+La azitromicina es un antibiótico macrólido utilizado para tratar diversas infecciones bacterianas, incluyendo infecciones respiratorias, infecciones de la piel y enfermedades de transmisión sexual.  Actúa inhibiendo la síntesis de proteínas bacterianas, impidiendo su crecimiento y reproducción.  Su amplio espectro de actividad la hace efectiva contra un rango de bacterias gram-positivas y gram-negativas.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 18:12:09 - Medicamento: Azitromicina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Azitromicina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Azitromicina']
+Usando modelo: gemini-1.5-flash
+La azitromicina es un antibiótico macrólido utilizado para tratar una variedad de infecciones bacterianas, incluyendo infecciones respiratorias bajas, infecciones de la piel y enfermedades de transmisión sexual.  Actúa inhibiendo la síntesis de proteínas bacterianas, impidiendo su crecimiento y reproducción.  Su uso debe ser guiado por un profesional de la salud, ya que la resistencia a los antibióticos es una preocupación creciente.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+

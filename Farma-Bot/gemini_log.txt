@@ -1499,3 +1499,564 @@ La repaglinida es un secretagogo de insulina utilizado para tratar la diabetes m
 >>> GeminiDescripcion.py finalizado <<<
 
 
+2025-04-25 22:24:17 - Medicamento: Amoxicilina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Amoxicilina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Amoxicilina']
+Usando modelo: gemini-1.5-flash
+La amoxicilina es un antibiótico betalactámico de amplio espectro, utilizado para tratar diversas infecciones bacterianas, como infecciones del tracto respiratorio, infecciones de oído y piel.  Su acción se basa en inhibir la síntesis de la pared celular bacteriana, causando la muerte de las bacterias.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 22:24:21 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiótico utilizado para tratar infecciones causadas por bacterias anaerobias y ciertos parásitos.  Se usa comúnmente para infecciones vaginales, infecciones gastrointestinales y algunas infecciones de la piel.  También puede utilizarse en el tratamiento de algunas infecciones del sistema nervioso central.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 22:24:26 - Medicamento: Enzalutamida
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Enzalutamida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Enzalutamida']
+Usando modelo: gemini-1.5-flash
+La enzalutamida es un medicamento usado para tratar el cáncer de próstata resistente a la castración.  Actúa bloqueando la acción de la testosterona en las células cancerosas de la próstata.  Esto ayuda a ralentizar o detener el crecimiento del cáncer.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 22:24:30 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es una secretagoga de insulina utilizada para tratar la diabetes mellitus tipo 2.  Actúa estimulando la liberación de insulina del páncreas en respuesta a la glucosa.  Se utiliza generalmente en combinación con dieta y ejercicio para controlar los niveles de glucosa en sangre.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 22:25:58 - Medicamento: Metformina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metformina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metformina']
+Usando modelo: gemini-1.5-flash
+La metformina se utiliza principalmente para tratar la diabetes tipo 2, ayudando a reducir los niveles de glucosa en sangre.  Actúa mejorando la sensibilidad a la insulina y disminuyendo la producción de glucosa en el hígado.  También puede utilizarse,  en ocasiones,  como parte del tratamiento para el síndrome de ovario poliquístico (SOP).
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 22:26:02 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiótico usado para tratar infecciones causadas por bacterias anaeróbicas y ciertos parásitos.  Actúa interfiriendo con el ADN de los microorganismos, impidiendo su reproducción.  Se utiliza en infecciones gastrointestinales, ginecológicas y de la piel, entre otras.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 22:26:06 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es un secretagogo de insulina utilizado para tratar la diabetes mellitus tipo 2.  Funciona estimulando la liberación de insulina desde el páncreas.  Se utiliza generalmente en pacientes que no logran un control adecuado de la glucosa en sangre con dieta y ejercicio.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 22:38:33 - Medicamento: Azitromicina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Azitromicina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Azitromicina']
+Usando modelo: gemini-1.5-flash
+La azitromicina es un antibiótico macrólido utilizado para tratar una variedad de infecciones bacterianas, incluyendo infecciones respiratorias, infecciones de la piel y enfermedades de transmisión sexual.  Actúa inhibiendo la síntesis de proteínas bacterianas,  paralizando su crecimiento y reproducción.  Su uso debe ser prescrito por un médico y según su criterio.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 22:46:00 - Medicamento: Azitromicina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Azitromicina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Azitromicina']
+Usando modelo: gemini-1.5-flash
+La azitromicina es un antibiótico macrólido utilizado para tratar diversas infecciones bacterianas, incluyendo infecciones respiratorias bajas y altas, infecciones de la piel y tejidos blandos, e infecciones de transmisión sexual.  Actúa inhibiendo la síntesis de proteínas bacterianas, impidiendo su crecimiento y reproducción.  Su uso debe estar siempre bajo prescripción médica.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 23:01:42 - Medicamento: Amoxicilina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Amoxicilina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Amoxicilina']
+Usando modelo: gemini-1.5-flash
+La amoxicilina es un antibiótico beta-lactámico utilizado para tratar una variedad de infecciones bacterianas, como infecciones del tracto respiratorio, del oído y de la piel.  Actúa inhibiendo la síntesis de la pared celular bacteriana, causando la muerte de las bacterias.  Es eficaz contra un amplio espectro de bacterias Gram-positivas y algunas Gram-negativas.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 23:01:46 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiótico utilizado para tratar infecciones causadas por bacterias anaerobias y algunos parásitos.  Se usa comúnmente para tratar infecciones vaginales, infecciones gastrointestinales y ciertas infecciones de la piel.  También puede ser usado para tratar infecciones después de cirugías o traumas.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 23:01:50 - Medicamento: Enzalutamida
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Enzalutamida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Enzalutamida']
+Usando modelo: gemini-1.5-flash
+La enzalutamida es un antiandrógeno utilizado en el tratamiento del cáncer de próstata metastásico resistente a la castración.  Bloquea la acción de las hormonas masculinas (andrógenos) en las células cancerosas, ralentizando el crecimiento tumoral.  Se administra por vía oral.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 23:01:55 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es una secretagogo de insulina utilizada para tratar la diabetes mellitus tipo 2.  Actúa estimulando la liberación de insulina por el páncreas. Su uso está indicado en pacientes que no alcanzan un control adecuado de la glucosa en sangre con dieta y ejercicio.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 23:05:14 - Medicamento: Azitromicina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Azitromicina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Azitromicina']
+Usando modelo: gemini-1.5-flash
+La azitromicina es un antibiótico macrólido utilizado para tratar una variedad de infecciones bacterianas, incluyendo infecciones respiratorias, infecciones de la piel y enfermedades de transmisión sexual.  Actúa inhibiendo la síntesis proteica bacteriana, impidiendo su crecimiento y reproducción.  Su uso debe ser guiado por un profesional médico debido a la creciente resistencia bacteriana a los antibióticos.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 23:06:01 - Medicamento: Metformina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metformina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metformina']
+Usando modelo: gemini-1.5-flash
+La metformina se usa principalmente para tratar la diabetes tipo 2, ayudando a controlar los niveles de glucosa en sangre.  Funciona mejorando la sensibilidad a la insulina y reduciendo la producción de glucosa por el hígado.  También puede utilizarse como parte de un régimen para prevenir la diabetes tipo 2 en personas con alto riesgo.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 23:06:06 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiótico utilizado para tratar infecciones causadas por bacterias anaeróbicas y ciertos parásitos.  Actúa interfiriendo con el ADN de los microorganismos, impidiendo su reproducción y crecimiento.  Se emplea en el tratamiento de infecciones gastrointestinales, ginecológicas, de la piel y del sistema nervioso central, entre otras.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-25 23:06:10 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es un secretagogo de insulina utilizado para tratar la diabetes mellitus tipo 2.  Funciona estimulando la liberación de insulina por el páncreas.  Se utiliza en pacientes que no logran controlar su glucosa en sangre con dieta y ejercicio solamente.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:41:43 - Medicamento: Amoxicilina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Amoxicilina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Amoxicilina']
+Usando modelo: gemini-1.5-flash
+La amoxicilina es un antibiótico betalactámico de la familia de las penicilinas. Se utiliza para tratar una variedad de infecciones bacterianas, incluyendo infecciones del tracto respiratorio, infecciones de oído, infecciones de la piel y las vías urinarias. Su eficacia depende del tipo de bacteria que causa la infección.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:41:48 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiótico utilizado para tratar infecciones causadas por bacterias anaerobias y ciertos parásitos.  Es efectivo contra una variedad de organismos que causan infecciones en el tracto gastrointestinal, piel,  y sistema genitourinario.  También se utiliza en el tratamiento de la enfermedad inflamatoria pélvica y la giardiasis.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:41:52 - Medicamento: Enzalutamida
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Enzalutamida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Enzalutamida']
+Usando modelo: gemini-1.5-flash
+La enzalutamida es un antiandrógeno usado en el tratamiento del cáncer de próstata resistente a la castración.  Bloquea la acción de las hormonas masculinas (andrógenos) sobre las células cancerosas de la próstata,  retrasando su crecimiento.  Se utiliza tanto en etapas avanzadas como en pacientes con enfermedad metastásica.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:41:56 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es una secretagogo de insulina utilizada para tratar la diabetes mellitus tipo 2.  Funciona estimulando la liberación de insulina del páncreas solo cuando los niveles de glucosa en sangre son elevados. Su uso está indicado para pacientes que no logran controlar adecuadamente sus niveles de glucosa con dieta y ejercicio.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:48:08 - Medicamento: Amoxicilina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Amoxicilina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Amoxicilina']
+Usando modelo: gemini-1.5-flash
+La amoxicilina es un antibiÃ³tico beta-lactÃ¡mico utilizado para tratar diversas infecciones bacterianas, incluyendo infecciones del tracto respiratorio, oÃ­do medio y piel.  ActÃºa inhibiendo la sÃ­ntesis de la pared celular bacteriana, lo que lleva a la muerte de las bacterias.  Su eficacia varÃ­a dependiendo del tipo de bacteria y su sensibilidad a la amoxicilina.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:48:12 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiÃ³tico utilizado para tratar infecciones causadas por bacterias anaerobias y ciertos parÃ¡sitos.  Es efectivo contra diversas infecciones, incluyendo algunas gastrointestinales y ginecolÃ³gicas.  Se utiliza tambiÃ©n en el tratamiento de la enfermedad inflamatoria pÃ©lvica y algunas infecciones de la piel.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:48:16 - Medicamento: Enzalutamida
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Enzalutamida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Enzalutamida']
+Usando modelo: gemini-1.5-flash
+La enzalutamida es un antiandrÃ³geno utilizado en el tratamiento del cÃ¡ncer de prÃ³stata resistente a la castraciÃ³n.  Bloquea la acciÃ³n de las hormonas masculinas (andrÃ³genos) en las cÃ©lulas cancerosas, ralentizando o deteniendo su crecimiento.  Se utiliza tanto en estadios avanzados como en pacientes con metÃ¡stasis.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:48:20 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es una secretagoga de insulina utilizada para tratar la diabetes mellitus tipo 2.  ActÃºa estimulando la liberaciÃ³n de insulina desde el pÃ¡ncreas en respuesta a los niveles de glucosa en sangre.  Su uso estÃ¡ indicado en pacientes que no logran un control adecuado de la glucosa con dieta y ejercicio.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:53:04 - Medicamento: Amoxicilina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Amoxicilina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Amoxicilina']
+Usando modelo: gemini-1.5-flash
+La amoxicilina es un antibiÃ³tico beta-lactÃ¡mico de amplio espectro utilizado para tratar diversas infecciones bacterianas, incluyendo infecciones del tracto respiratorio, oÃ­do, piel y tracto urinario.  ActÃºa inhibiendo la sÃ­ntesis de la pared celular bacteriana, provocando la muerte de las bacterias. Su efectividad depende del tipo de bacteria causante de la infecciÃ³n.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:53:08 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiÃ³tico utilizado para tratar infecciones causadas por bacterias anaerÃ³bicas y ciertos parÃ¡sitos.  ActÃºa interfiriendo con el ADN de los microorganismos, impidiendo su reproducciÃ³n y crecimiento.  Se utiliza en el tratamiento de infecciones como la giardiasis, tricomoniasis y algunas infecciones bacterianas.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:53:12 - Medicamento: Enzalutamida
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Enzalutamida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Enzalutamida']
+Usando modelo: gemini-1.5-flash
+La enzalutamida es un antiandrÃ³geno utilizado para tratar el cÃ¡ncer de prÃ³stata resistente a la castraciÃ³n.  Funciona bloqueando la acciÃ³n de las hormonas masculinas (andrÃ³genos) en las cÃ©lulas cancerosas de la prÃ³stata, ralentizando su crecimiento.  Se utiliza tanto en el cÃ¡ncer de prÃ³stata metastÃ¡sico como en el no metastÃ¡sico.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:53:16 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es un secretagogo de insulina utilizado para tratar la diabetes mellitus tipo 2.  Funciona estimulando la liberaciÃ³n de insulina del pÃ¡ncreas en respuesta a los niveles de glucosa en sangre.  Se usa generalmente en pacientes con diabetes tipo 2 que no controlan adecuadamente sus niveles de glucosa con dieta y ejercicio.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:53:52 - Medicamento: Azitromicina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Azitromicina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Azitromicina']
+Usando modelo: gemini-1.5-flash
+La azitromicina es un antibiÃ³tico macrÃ³lido utilizado para tratar diversas infecciones bacterianas, incluyendo infecciones respiratorias bajas y altas, infecciones de la piel y tejidos blandos, y ciertas infecciones de transmisiÃ³n sexual.  ActÃºa inhibiendo la sÃ­ntesis de proteÃ­nas bacterianas, previniendo su crecimiento y reproducciÃ³n.  Su uso debe ser guiado por un profesional mÃ©dico debido a la posible apariciÃ³n de resistencia bacteriana.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:56:38 - Medicamento: Azitromicina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Azitromicina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Azitromicina']
+Usando modelo: gemini-1.5-flash
+La azitromicina es un antibiÃ³tico macrÃ³lido utilizado para tratar una variedad de infecciones bacterianas, incluyendo infecciones respiratorias, infecciones de la piel y enfermedades de transmisiÃ³n sexual.  ActÃºa inhibiendo la sÃ­ntesis de proteÃ­nas bacterianas, impidiendo su crecimiento y reproducciÃ³n.  Su administraciÃ³n puede ser oral o intravenosa, dependiendo de la severidad de la infecciÃ³n.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 16:59:15 - Medicamento: Azitromicina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Azitromicina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Azitromicina']
+Usando modelo: gemini-1.5-flash
+La azitromicina es un antibiÃ³tico macrÃ³lido utilizado para tratar diversas infecciones bacterianas, incluyendo infecciones respiratorias bajas y altas, infecciones de la piel y tejidos blandos, y ciertas infecciones de transmisiÃ³n sexual.  ActÃºa inhibiendo la sÃ­ntesis proteica bacteriana, previniendo su multiplicaciÃ³n.  Su administraciÃ³n puede ser oral o intravenosa, dependiendo de la gravedad de la infecciÃ³n.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:01:21 - Medicamento: Azitromicina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Azitromicina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Azitromicina']
+Usando modelo: gemini-1.5-flash
+La azitromicina es un antibiÃ³tico macrÃ³lido utilizado para tratar una variedad de infecciones bacterianas, incluyendo infecciones respiratorias bajas, infecciones de la piel y del tejido blando, y ciertas infecciones de transmisiÃ³n sexual.  ActÃºa inhibiendo la sÃ­ntesis de proteÃ­nas bacterianas, impidiendo su crecimiento y reproducciÃ³n. Su administraciÃ³n puede ser oral o intravenosa.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:01:31 - Medicamento: Amoxicilina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Amoxicilina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Amoxicilina']
+Usando modelo: gemini-1.5-flash
+La amoxicilina es un antibiÃ³tico de la familia de las penicilinas, utilizado para tratar una variedad de infecciones bacterianas, como infecciones del oÃ­do, de la garganta, del tracto respiratorio inferior y de la piel.  ActÃºa inhibiendo el crecimiento de bacterias sensibles. Su uso debe ser guiado por un profesional mÃ©dico.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:01:36 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiÃ³tico utilizado para tratar infecciones causadas por bacterias anaerobias y algunos protozoos.  Se utiliza en el tratamiento de infecciones gastrointestinales, infecciones ginecolÃ³gicas (como la vaginosis bacteriana) y ciertas infecciones de la piel.  TambiÃ©n puede usarse para tratar infecciones parasitarias como la amebiasis y la giardiasis.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:01:40 - Medicamento: Enzalutamida
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Enzalutamida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Enzalutamida']
+Usando modelo: gemini-1.5-flash
+La enzalutamida es un antiandrÃ³geno utilizado en el tratamiento del cÃ¡ncer de prÃ³stata resistente a la castraciÃ³n.  Funciona bloqueando la acciÃ³n de las hormonas masculinas (andrÃ³genos) en las cÃ©lulas cancerosas de la prÃ³stata.  Esto ayuda a ralentizar o detener el crecimiento del cÃ¡ncer.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:01:44 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es un secretagogo de insulina utilizado para tratar la diabetes mellitus tipo 2.  Funciona estimulando la liberaciÃ³n de insulina desde el pÃ¡ncreas cuando los niveles de glucosa en sangre estÃ¡n elevados.  Su uso estÃ¡ indicado generalmente en pacientes que no pueden controlar sus niveles de glucosa con dieta y ejercicio solos.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:41:49 - Medicamento: Amoxicilina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Amoxicilina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Amoxicilina']
+Usando modelo: gemini-1.5-flash
+La amoxicilina es un antibiÃ³tico de la familia de las penicilinas, utilizado para tratar una variedad de infecciones bacterianas, incluyendo infecciones del tracto respiratorio, de la piel y de las vÃ­as urinarias.  Su efectividad depende del tipo de bacteria que causa la infecciÃ³n.  Es importante completar el ciclo de tratamiento prescrito, aunque los sÃ­ntomas mejoren.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:41:53 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiÃ³tico utilizado para tratar infecciones causadas por bacterias anaerobias y ciertos parÃ¡sitos.  Es efectivo contra una variedad de microorganismos, incluyendo *Giardia lamblia* y *Trichomonas vaginalis*.  TambiÃ©n se usa tÃ³picamente para tratar algunas infecciones de la piel.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:41:57 - Medicamento: Enzalutamida
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Enzalutamida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Enzalutamida']
+Usando modelo: gemini-1.5-flash
+La enzalutamida es un antiandrÃ³geno utilizado en el tratamiento del cÃ¡ncer de prÃ³stata resistente a la castraciÃ³n.  ActÃºa bloqueando la acciÃ³n de las hormonas masculinas (andrÃ³genos) en las cÃ©lulas cancerosas de la prÃ³stata, ralentizando o deteniendo su crecimiento. Se utiliza tanto en tratamientos hormonales iniciales como en tratamientos posteriores a otras terapias.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:42:01 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es un medicamento antidiabÃ©tico oral perteneciente a la clase de las meglitinidas.  Estimula la liberaciÃ³n de insulina del pÃ¡ncreas, mejorando el control glucÃ©mico en pacientes con diabetes tipo 2.  Su uso estÃ¡ indicado para ayudar a controlar los niveles de glucosa en sangre en pacientes que no logran un control adecuado con dieta y ejercicio.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:42:15 - Medicamento: Metformina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metformina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metformina']
+Usando modelo: gemini-1.5-flash
+La metformina se usa principalmente para tratar la diabetes tipo 2, ayudando a disminuir los niveles de glucosa en sangre.  ActÃºa mejorando la sensibilidad a la insulina y reduciendo la producciÃ³n de glucosa en el hÃ­gado.  TambiÃ©n puede utilizarse como parte de un plan de manejo de peso en algunos individuos con diabetes tipo 2.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:42:19 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiÃ³tico utilizado para tratar infecciones causadas por bacterias anaerobias y ciertos parÃ¡sitos.  Es eficaz contra una variedad de infecciones, incluyendo infecciones ginecolÃ³gicas, gastrointestinales y de la piel.  TambiÃ©n se utiliza en el tratamiento de la enfermedad inflamatoria pÃ©lvica y la giardiasis.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:42:23 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es una secretagoga de insulina utilizada para tratar la diabetes mellitus tipo 2.  ActÃºa estimulando la liberaciÃ³n de insulina en el pÃ¡ncreas en respuesta a los niveles de glucosa en sangre.  Se usa generalmente en combinaciÃ³n con dieta y ejercicio para controlar los niveles de glucosa.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:42:42 - Medicamento: Amoxicilina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Amoxicilina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Amoxicilina']
+Usando modelo: gemini-1.5-flash
+La amoxicilina es un antibiÃ³tico beta-lactÃ¡mico utilizado para tratar una variedad de infecciones bacterianas, incluyendo infecciones del tracto respiratorio, infecciones del oÃ­do y de la piel.  ActÃºa inhibiendo la sÃ­ntesis de la pared celular bacteriana, causando la muerte de las bacterias. Su uso debe ser guiado por un profesional mÃ©dico y solo se debe emplear para infecciones bacterianas, no virales.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:42:46 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiÃ³tico utilizado para tratar infecciones causadas por bacterias anaerobias y ciertos parÃ¡sitos.  Es eficaz contra una variedad de organismos, incluyendo *Giardia lamblia* y *Trichomonas vaginalis*.  TambiÃ©n se utiliza en el tratamiento de algunas infecciones bacterianas de la piel y el tracto gastrointestinal.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:42:50 - Medicamento: Enzalutamida
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Enzalutamida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Enzalutamida']
+Usando modelo: gemini-1.5-flash
+La enzalutamida es un antiandrÃ³geno utilizado en el tratamiento del cÃ¡ncer de prÃ³stata resistente a la castraciÃ³n.  Bloquea la acciÃ³n de las hormonas masculinas (andrÃ³genos) en las cÃ©lulas cancerosas, ralentizando su crecimiento.  Se utiliza generalmente en pacientes con enfermedad metastÃ¡sica.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:42:54 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es un secretagogo de insulina utilizado para tratar la diabetes mellitus tipo 2.  ActÃºa estimulando la liberaciÃ³n de insulina del pÃ¡ncreas.  Se utiliza en pacientes que no controlan adecuadamente su glucemia con dieta y ejercicio Ãºnicamente.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:43:16 - Medicamento: Metformina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metformina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metformina']
+Usando modelo: gemini-1.5-flash
+La metformina se utiliza principalmente para tratar la diabetes tipo 2, ayudando a reducir los niveles de glucosa en sangre.  ActÃºa aumentando la sensibilidad a la insulina y disminuyendo la producciÃ³n de glucosa en el hÃ­gado.  TambiÃ©n puede utilizarse para disminuir el riesgo de complicaciones cardiovasculares en pacientes con diabetes tipo 2.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:43:21 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiÃ³tico utilizado para tratar infecciones causadas por bacterias anaerobias y ciertos parÃ¡sitos.  Es eficaz contra una variedad de microorganismos, incluyendo *Giardia lamblia* y *Trichomonas vaginalis*.  TambiÃ©n se puede utilizar en el tratamiento de algunas infecciones bacterianas especÃ­ficas.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 17:43:25 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es un secretagogo de insulina utilizado para tratar la diabetes mellitus tipo 2.  Funciona estimulando la liberaciÃ³n de insulina del pÃ¡ncreas.  Se utiliza como terapia adyuvante a la dieta y el ejercicio para mejorar el control glucÃ©mico.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+

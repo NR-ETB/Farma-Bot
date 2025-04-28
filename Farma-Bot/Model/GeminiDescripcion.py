@@ -3,6 +3,10 @@ import os
 import json
 import io
 
+# Configurar UTF-8 para toda la salida al principio del script
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', line_buffering=True)
+sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', line_buffering=True)
+
 # Intenta importar la biblioteca de Google Generative AI
 try:
     import google.generativeai as genai
@@ -26,7 +30,7 @@ try:
     api_key = "AIzaSyAWV2FQloJS26NB7AmOl4UK2imw6jFmpig"
     genai.configure(api_key=api_key)
     
-    # El nombre correcto del modelo es "gemini-pro"
+    # Usar el modelo correcto
     modelo = "gemini-1.5-flash"
     print(f"Usando modelo: {modelo}")
     
@@ -50,7 +54,6 @@ except Exception as e:
     
     medicamento_lower = medicamento.lower()
     if medicamento_lower in descripciones_fallback:
-        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', line_buffering=True)
         print(descripciones_fallback[medicamento_lower])
     else:
         print(f"El medicamento {medicamento} se utiliza para tratar determinadas condiciones médicas. Consulte con un profesional de la salud para información específica sobre este medicamento.")

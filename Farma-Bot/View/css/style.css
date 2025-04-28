@@ -52,7 +52,7 @@ a{
     background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
-    height: 1359px;
+    height: 959px;
 }
 
 .container-bot {
@@ -120,6 +120,35 @@ main input{
 
 .product{
     display: flex;
+}
+
+.descripcion-medicamento {
+    max-width: 300px;
+    max-height: 150px;
+    overflow-y: auto;
+}
+
+.similitud-badge {
+    font-size: 0.8rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.similitud-alta {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.similitud-media {
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.similitud-baja {
+    background-color: #f8d7da;
+    color: #721c24;
 }
 
 .result{
@@ -243,6 +272,116 @@ main h2, .result h2{
     .buttons-act, .buttons-act-2 {
         left: auto;
         text-align: center;
+    }
+}
+
+/* Media Query para laptops (1366px - tamaño común de laptop) */
+@media screen and (max-width: 1366px) {
+    .main-container {
+        height: 100vh; /* Altura completa de la ventana */
+        background-position: left center; /* Ajusta la posición de la imagen de fondo */
+    }
+    
+    .container-bot {
+        width: 75%; /* Reduce el ancho del contenedor principal */
+        margin-left: 23%; /* Ajusta el margen izquierdo */
+        padding: 0 50px; /* Reduce el padding */
+        height: 100vh;
+    }
+    
+    h1 {
+        font-size: 48px; /* Reduce el tamaño del título */
+        margin-top: 20px;
+    }
+    
+    main {
+        top: 100px; /* Ajusta la posición del contenido principal */
+        height: 65vh; /* Ajusta la altura */
+    }
+    
+    main input {
+        width: 70%; /* Hace que el campo de búsqueda sea más responsivo */
+        margin: 0 0 5px 10%; /* Ajusta los márgenes */
+    }
+    
+    main h2, .result h2 {
+        margin: 0 0 15px 10%; /* Ajusta los márgenes */
+    }
+    
+    .result {
+        margin-top: 20px;
+        overflow-y: auto; /* Permite desplazamiento vertical si el contenido es muy largo */
+        max-height: 60vh; /* Limita la altura máxima */
+    }
+    
+    /* Ajustes para la tabla */
+    .table {
+        font-size: 0.9rem; /* Reduce ligeramente el tamaño de la fuente */
+    }
+    
+    /* Cuando hay sugerencias y se aumenta el height */
+    .main-container.height-aumentado {
+        height: auto !important; /* Ajusta automáticamente */
+        min-height: 100vh;
+    }
+    
+    .container-bot.height-aumentado {
+        height: auto !important;
+        min-height: 100vh;
+    }
+    
+    .main.height-aumentado {
+        height: auto !important;
+        min-height: 70vh;
+    }
+}
+
+/* Media Query para laptops más pequeñas */
+@media screen and (max-width: 1200px) {
+    .container-bot {
+        width: 85%; /* Aumenta el ancho relativo */
+        margin-left: 15%; /* Reduce el margen izquierdo */
+        padding: 0 30px; /* Reduce aún más el padding */
+    }
+    
+    main input {
+        width: 65%; /* Reduce el ancho del campo de búsqueda */
+        margin-left: 5%; /* Ajusta el margen */
+    }
+    
+    main h2, .result h2 {
+        margin: 0 0 15px 5%; /* Ajusta los márgenes */
+    }
+}
+
+/* Modificación a la media query existente para tablets */
+@media screen and (max-width: 1024px) {
+    .main-container {
+        background-position: 30% center; /* Ajusta la posición del fondo */
+    }
+    
+    .container-bot {
+        width: 90%;
+        margin-left: 5%;
+        padding: 0 20px;
+    }
+    
+    main {
+        top: 80px;
+    }
+    
+    main input {
+        width: 70%;
+        margin-left: 5%;
+    }
+    
+    .btn {
+        width: 20%;
+        max-width: 110px;
+    }
+    
+    .product {
+        flex-wrap: wrap; /* Permite que los elementos se ajusten en pantallas pequeñas */
     }
 }
 /* RESPONSIVE DESIGN */

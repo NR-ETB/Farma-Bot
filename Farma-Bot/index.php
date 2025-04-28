@@ -237,32 +237,6 @@ $conn->close();
     <link rel="stylesheet" href="View/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="View/css/style.css">
     <title>Medisync Consulta</title>
-    <style>
-        .descripcion-medicamento {
-            max-width: 300px;
-            max-height: 150px;
-            overflow-y: auto;
-        }
-        .similitud-badge {
-            font-size: 0.8rem;
-            padding: 0.25rem 0.5rem;
-            border-radius: 10px;
-            display: inline-block;
-            margin-left: 5px;
-        }
-        .similitud-alta {
-            background-color: #d4edda;
-            color: #155724;
-        }
-        .similitud-media {
-            background-color: #fff3cd;
-            color: #856404;
-        }
-        .similitud-baja {
-            background-color: #f8d7da;
-            color: #721c24;
-        }
-    </style>
 </head>
 <body>
 
@@ -341,7 +315,7 @@ $conn->close();
                                             $clase_similitud = '';
                                             $texto_similitud = '';
                                             
-                                            if ($sugerencia['similitud'] >= 0.7) {
+                                            if ($sugerencia['similitud'] >= 0.65) {
                                                 $clase_similitud = 'similitud-alta';
                                                 $texto_similitud = 'Alta';
                                             } elseif ($sugerencia['similitud'] >= 0.3) {

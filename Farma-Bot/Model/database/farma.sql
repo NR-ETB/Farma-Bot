@@ -30,15 +30,23 @@ CREATE TABLE Endocrinologicas (
     cant_End INT
 );
 
+-- Crear la tabla de Sedes
+CREATE TABLE Sedes (
+    id_Sed INT AUTO_INCREMENT PRIMARY KEY,
+    nom_Sed VARCHAR(100) NOT NULL
+);
+
 -- Tabla: Inventario
 CREATE TABLE Inventario (
     id_Inv INT AUTO_INCREMENT PRIMARY KEY,
     id_Inf INT,
     id_Onc INT,
     id_End INT,
+	id_Sed INT,
     FOREIGN KEY (id_Inf) REFERENCES Infecciones(id_Inf),
     FOREIGN KEY (id_Onc) REFERENCES Oncologicas(id_Onc),
-    FOREIGN KEY (id_End) REFERENCES Endocrinologicas(id_End)
+    FOREIGN KEY (id_End) REFERENCES Endocrinologicas(id_End),
+	FOREIGN KEY (id_Sed) REFERENCES Sedes(id_Sed)
 );
 
 -- Insertar medicamentos en Infecciones
@@ -65,14 +73,8 @@ INSERT INTO Endocrinologicas (nom_End, gra_End, ing_End, cant_End) VALUES
 ('Repaglinida ', '4mg', 'Celulosa microcristalina, Povidona, Estearato de magnesio', 200),
 ('Canagliflozina', '100mg', 'Canagliflozina, Dióxido de titanio, Macrogol', 90);
 
--- Crear la tabla de Sedes
-CREATE TABLE Sedes (
-    id_Sede INT AUTO_INCREMENT PRIMARY KEY,
-    nombre_Sede VARCHAR(100) NOT NULL
-);
-
 -- Insertar tres sedes de ejemplo
-INSERT INTO Sedes (nombre_Sede) VALUES
+INSERT INTO Sedes (nom_Sed) VALUES
 ('Sede Central'),
 ('Sede Norte'),
 ('Sede Sur');

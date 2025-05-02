@@ -2082,3 +2082,47 @@ La azitromicina es un antibiótico macrólido utilizado para tratar una variedad
 >>> GeminiDescripcion.py finalizado <<<
 
 
+2025-04-28 18:12:55 - Medicamento: Amoxicilina
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Amoxicilina" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Amoxicilina']
+Usando modelo: gemini-1.5-flash
+La amoxicilina es un antibiótico beta-lactámico utilizado para tratar una variedad de infecciones bacterianas, incluyendo infecciones del tracto respiratorio, oído, piel y tracto urinario.  Actúa inhibiendo la síntesis de la pared celular bacteriana. Su eficacia depende del tipo de bacteria y su susceptibilidad al medicamento.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 18:13:00 - Medicamento: Metronidazol
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Metronidazol" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Metronidazol']
+Usando modelo: gemini-1.5-flash
+El metronidazol es un antibiótico usado para tratar infecciones causadas por bacterias anaerobias y ciertos parásitos.  Es efectivo contra una variedad de organismos, incluyendo *Giardia lamblia* y *Trichomonas vaginalis*.  También se utiliza en el tratamiento de algunas infecciones bacterianas de la piel y el tracto gastrointestinal.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 18:13:04 - Medicamento: Enzalutamida
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Enzalutamida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Enzalutamida']
+Usando modelo: gemini-1.5-flash
+La enzalutamida es un antiandrógeno utilizado para tratar el cáncer de próstata resistente a la castración.  Actúa bloqueando la acción de las hormonas masculinas en las células cancerosas de la próstata, ralentizando su crecimiento.  Se utiliza tanto en el cáncer de próstata metastásico como en el no metastásico.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
+2025-04-28 18:13:08 - Medicamento: Repaglinida 
+Comando: C:\Python\python.exe "C:\xampp\htdocs\xampp\Farma-Bot/Model/GeminiDescripcion.py" "Repaglinida" 2>&1
+Salida completa:
+>>> GeminiDescripcion.py se ha iniciado <<<
+Argumentos recibidos: ['C:\\xampp\\htdocs\\xampp\\Farma-Bot/Model/GeminiDescripcion.py', 'Repaglinida']
+Usando modelo: gemini-1.5-flash
+La repaglinida es una secretagoga de insulina, utilizada para tratar la diabetes mellitus tipo 2.  Actúa estimulando la liberación de insulina en el páncreas cuando los niveles de glucosa en sangre están elevados.  Su uso se reserva generalmente para pacientes que no responden adecuadamente a dieta y ejercicio.
+
+>>> GeminiDescripcion.py finalizado <<<
+
+
